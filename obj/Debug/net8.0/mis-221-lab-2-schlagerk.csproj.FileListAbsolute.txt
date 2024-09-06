@@ -1,0 +1,15 @@
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-2-schlagerk\bin\Debug\net8.0\mis-221-lab-2-schlagerk.exe
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-2-schlagerk\bin\Debug\net8.0\mis-221-lab-2-schlagerk.deps.json
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-2-schlagerk\bin\Debug\net8.0\mis-221-lab-2-schlagerk.runtimeconfig.json
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-2-schlagerk\bin\Debug\net8.0\mis-221-lab-2-schlagerk.dll
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-2-schlagerk\bin\Debug\net8.0\mis-221-lab-2-schlagerk.pdb
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-2-schlagerk\obj\Debug\net8.0\mis-221-lab-2-schlagerk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-2-schlagerk\obj\Debug\net8.0\mis-221-lab-2-schlagerk.AssemblyInfoInputs.cache
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-2-schlagerk\obj\Debug\net8.0\mis-221-lab-2-schlagerk.AssemblyInfo.cs
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-2-schlagerk\obj\Debug\net8.0\mis-221-lab-2-schlagerk.csproj.CoreCompileInputs.cache
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-2-schlagerk\obj\Debug\net8.0\mis-221-lab-2-schlagerk.sourcelink.json
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-2-schlagerk\obj\Debug\net8.0\mis-221-lab-2-schlagerk.dll
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-2-schlagerk\obj\Debug\net8.0\refint\mis-221-lab-2-schlagerk.dll
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-2-schlagerk\obj\Debug\net8.0\mis-221-lab-2-schlagerk.pdb
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-2-schlagerk\obj\Debug\net8.0\mis-221-lab-2-schlagerk.genruntimeconfig.cache
+C:\Users\kates\OneDrive\Documents\source\Fall2024repos\221fall24\mis-221-lab-2-schlagerk\obj\Debug\net8.0\ref\mis-221-lab-2-schlagerk.dll
