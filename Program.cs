@@ -48,6 +48,6 @@ static double GetBaseCost(double totalSandwichCost, double totalToppingCost)
 
 double orderCost = tip + baseCost * (1 - DISCOUNT_AMOUNT);
 
-Math.Round(orderCost,2);
+orderCost = Math.Round(orderCost,2);
 
     System.Console.WriteLine("The order cost is "+orderCost);
